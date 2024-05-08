@@ -1,4 +1,10 @@
 # ModuloTeste
-Teste unitário com C#
 
-* Para executar: dotnet test
+Este é um projeto de teste unitário em C#.
+
+## Como Executar
+
+Para executar os testes unitários, utilize o seguinte comando:
+
+```bash
+dotnet test
